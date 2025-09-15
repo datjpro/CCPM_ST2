@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio specific files and folders
+.vs/
+[Bb]in/
+[Oo]bj/
